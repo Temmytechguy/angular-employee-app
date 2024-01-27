@@ -1,10 +1,10 @@
 # Employeemanagerapp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.11
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.11 && Springboot version 3.2.2 && Java 17
 
 ## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+(Angular)
+  Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
@@ -26,3 +26,15 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 # angular-employee-app
+
+# (Springboot)
+mvn install
+
+mvn spring-boot:run
+
+BackEnd Endpoint: navigate to  'http://localhost:8080/employee/all'
+
+
+Thanks to @Amigoscode for providing the front end tutorial in depth
+
+
