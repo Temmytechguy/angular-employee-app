@@ -31,6 +31,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # angular-employee-app
 
 # (Springboot)
+
+Springboot folder is located inside /src/main folder
 mvn install
 
 mvn spring-boot:run
