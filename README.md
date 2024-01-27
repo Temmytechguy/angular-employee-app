@@ -1,6 +1,9 @@
 # Employeemanagerapp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.11 && Springboot version 3.2.2 && Java 17
+This project was upgraded to Angular version 13.3.11 && Springboot version 3.2.2 && Java 17
+
+Added CORS  and proxy 
+
 
 ## Development server
 (Angular)
